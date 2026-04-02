@@ -1,14 +1,13 @@
-# Olá, meu nome é [Carla Evelyn]!
+# Olá, meu nome é Carla Evelyn!
 
-Sou um desenvolvedora [de software].
+Sou um desenvolvedora de software.
 
-### 🚀 Sobre mim
-- Atualmente trabalhando com: [Python]
-- Aprendendo: [JavaScript]
+### Tecnologias
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![PHP](https://shields.io)
+![C++](https://shields.io)
 
-### 🛠️ Tecnologias e Ferramentas (Aptidões)
-<!-- Aqui você adiciona os ícones, veja na seção 3 -->
-<img src="https://skillicons.dev" />
 
 ### 📈 Estatísticas do GitHub
 <div align="center">
