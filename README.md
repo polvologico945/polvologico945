@@ -1,5 +1,4 @@
-# Olá, meu nome é Carla Evelyn e sou graduanda em Ciência da Computação na Universidade Federal do Ceará.
-.
+## Olá, meu nome é Carla Evelyn :)
 
 ### Tecnologias que tenho conhecimento
 
@@ -23,6 +22,8 @@
 
 ![Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight)
 
+
+Sou graduanda em Ciência da Computação na Universidade Federal do Ceará.
 
 ### 📞 Contato
 
