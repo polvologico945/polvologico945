@@ -16,9 +16,13 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
-## 📊 Estatísticas
+## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=polvologico945&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polvologico945&layout=compact&theme=tokyonight"/>
+</p>
+
 
 ![Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight)
 
