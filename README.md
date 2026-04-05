@@ -1,12 +1,8 @@
-# Olá, meu nome é Carla Evelyn!
+# Olá, meu nome é Carla Evelyn e graduanda em Ciência da Computação.
+.
 
-Sou um desenvolvedora de software.
-
-### Tecnologias
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![PHP](https://shields.io)
-![C++](https://shields.io)
+### Tecnologias que tenho conhecimento
+![Python] https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
 
 ### 📈 Estatísticas do GitHub
