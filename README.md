@@ -24,7 +24,7 @@
 </p>
 
 
-![Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=polvologico945&theme=tokyonight)
 
 
 Sou graduanda em Ciência da Computação na Universidade Federal do Ceará.
